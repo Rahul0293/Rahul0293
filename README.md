@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rahul0293
 - 👀 I’m interested in Coding, Travelling, Listenning music and Cooking.
 - 🌱 I’m currently learning Kafka integrated with storm and MULE Soft ESB.
-- 💞️ I’m looking to collaborate on Github and if possible new ooprtunities.
+- 💞️ I’m looking to collaborate on Github and if possible with new ooprtunities.
 - 📫 How to reach me mail me @Rahul.malawade31@gmail.com
 
 <!---
